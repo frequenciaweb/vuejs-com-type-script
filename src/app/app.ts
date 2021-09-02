@@ -9,7 +9,7 @@ var vm = new Vue({
      }
   })
 
-  new Vue(OutroController);
+  new Vue(new OutroController());
 
 
 
